@@ -1,6 +1,6 @@
 {
     "name": "ng-harmony",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Your gist",
     "main": "build/index.js",
     "dependencies": {},
